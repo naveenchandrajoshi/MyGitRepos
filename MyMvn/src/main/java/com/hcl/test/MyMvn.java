@@ -10,6 +10,9 @@ public class MyMvn {
 		// TODO Auto-generated method stub
 		System.out.println("ok");
 		System.out.println("ok1");
+		System.out.println("ok1");
+
 	}
+	
 
 }
